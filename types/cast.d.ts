@@ -10,6 +10,7 @@ declare namespace chrome.cast {
     class MediaInfo {
       constructor(contentId: string, contentType: string);
       contentUrl?: string;
+      customData?: { channelId?: string } | null;
       streamType: string;
       metadata: GenericMediaMetadata | null;
     }
@@ -28,7 +29,7 @@ declare namespace chrome.cast {
 declare namespace cast.framework {
   const CastContextEventType: { CAST_STATE_CHANGED: string; SESSION_STATE_CHANGED: string };
   const CastState: { NO_DEVICES_AVAILABLE: string; NOT_CONNECTED: string; CONNECTING: string; CONNECTED: string };
-  const RemotePlayerEventType: { IS_PAUSED_CHANGED: string; ANY_CHANGE: string };
+  const RemotePlayerEventType: { IS_PAUSED_CHANGED: string; ANY_CHANGE: string; MEDIA_INFO_CHANGED: string; IS_CONNECTED_CHANGED: string };
   interface CastStateEventData {
     castState: string;
   }
@@ -49,6 +50,8 @@ declare namespace cast.framework {
   class RemotePlayer {
     isPaused: boolean;
     isMuted: boolean;
+    isConnected: boolean;
+    mediaInfo: chrome.cast.media.MediaInfo | null;
   }
   class RemotePlayerController {
     constructor(player: RemotePlayer);

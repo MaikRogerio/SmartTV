@@ -61,14 +61,44 @@ export default function App({ catalogUrl }: { catalogUrl?: string } = {}) {
   const recent = useMemo(() => resolve(lib.recent).slice(0, 10), [resolve, lib.recent]);
   const favorites = useMemo(() => resolve(lib.favorites), [resolve, lib.favorites]);
 
+  // The TV is the source of truth. `loadSeq` numbers each request so a slow, older one cannot overwrite a newer tap;
+  // `pendingLoad` stops the receiver-sync effect from reverting the UI while a request is in flight.
+  const loadSeq = useRef(0);
+  const pendingLoad = useRef(0);
+  const tvChannelId = useRef<string | null>(null);
+  tvChannelId.current = cast.mediaId;
+  const byIdRef = useRef(byId);
+  byIdRef.current = byId;
+
   const sendToCast = useCallback(
     (c: VerifiedChannel) => {
+      const id = ++loadSeq.current;
+      pendingLoad.current = id;
       setCasting(c);
       setCastError(null);
-      cast.load(c).catch(() => setCastError(`The Chromecast could not play ${c.name}. Try the next channel.`));
+      cast
+        .load(c)
+        .then(() => {
+          if (pendingLoad.current === id) pendingLoad.current = 0;
+        })
+        .catch(() => {
+          if (loadSeq.current !== id) return; // a newer tap already took over
+          pendingLoad.current = 0;
+          // The TV kept whatever it was playing: show that, not the channel that failed.
+          setCasting((tvChannelId.current && byIdRef.current.get(tvChannelId.current)) || null);
+          setCastError(`The Chromecast could not play ${c.name}. It is still showing the previous channel.`);
+        });
     },
     [cast],
   );
+
+  // Receiver -> app: a re-joined session (page reload, reconnect) or a change made elsewhere shows up here.
+  const tvId = cast.mediaId;
+  useEffect(() => {
+    if (cast.status !== 'connected' || !tvId || pendingLoad.current) return;
+    const ch = byId.get(tvId);
+    if (ch) setCasting((cur) => (cur?.id === ch.id ? cur : ch));
+  }, [cast.status, tvId, byId]);
 
   const play = useCallback(
     (c: VerifiedChannel, context: VerifiedChannel[]) => {

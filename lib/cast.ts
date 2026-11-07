@@ -42,6 +42,7 @@ export async function castChannel(channel: VerifiedChannel): Promise<void> {
   const info = new media.MediaInfo(channel.url, 'application/x-mpegURL');
   info.contentUrl = channel.url;
   info.streamType = media.StreamType.LIVE;
+  info.customData = { channelId: channel.id }; // lets the app read back what the TV is really playing
   const meta = new media.GenericMediaMetadata();
   meta.title = channel.name;
   meta.subtitle = `${channel.countryName} · ${channel.categories.join(', ')}`;

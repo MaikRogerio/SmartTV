@@ -9,6 +9,7 @@ export function useCast() {
   const [status, setStatus] = useState<CastStatus>('unavailable');
   const [device, setDevice] = useState<string | null>(null);
   const [paused, setPaused] = useState(false);
+  const [mediaId, setMediaId] = useState<string | null>(null); // channel id the receiver reports it is playing
   const controller = useRef<cast.framework.RemotePlayerController | null>(null);
   const player = useRef<cast.framework.RemotePlayer | null>(null);
 
@@ -43,9 +44,19 @@ export function useCast() {
     controller.current = new fw.RemotePlayerController(player.current);
     const onPause = () => setPaused(Boolean(player.current?.isPaused));
     controller.current.addEventListener(fw.RemotePlayerEventType.IS_PAUSED_CHANGED, onPause);
+    // The receiver is the source of truth for "what is on the TV" (also covers a page reload that re-joins a session).
+    const onMedia = () => {
+      const p = player.current;
+      setMediaId(p?.isConnected ? (p.mediaInfo?.customData?.channelId ?? null) : null);
+    };
+    controller.current.addEventListener(fw.RemotePlayerEventType.MEDIA_INFO_CHANGED, onMedia);
+    controller.current.addEventListener(fw.RemotePlayerEventType.IS_CONNECTED_CHANGED, onMedia);
+    onMedia();
     return () => {
       ctx.removeEventListener(fw.CastContextEventType.CAST_STATE_CHANGED, onState);
       controller.current?.removeEventListener(fw.RemotePlayerEventType.IS_PAUSED_CHANGED, onPause);
+      controller.current?.removeEventListener(fw.RemotePlayerEventType.MEDIA_INFO_CHANGED, onMedia);
+      controller.current?.removeEventListener(fw.RemotePlayerEventType.IS_CONNECTED_CHANGED, onMedia);
     };
   }, [support]);
 
@@ -63,5 +74,5 @@ export function useCast() {
   const stop = useCallback(() => castContext()?.endCurrentSession(true), []);
   const togglePause = useCallback(() => controller.current?.playOrPause(), []);
 
-  return { support, status, device, paused, connect, load, stop, togglePause };
+  return { support, status, device, paused, mediaId, connect, load, stop, togglePause };
 }
