@@ -1,0 +1,83 @@
+name: Refresh channels and deploy
+
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every 6 hours (UTC)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Publish even if far fewer channels pass than last time'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # commit the refreshed channel list
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  check-streams:
+    # Pushes only rebuild the site; scheduled / manual runs re-check the streams first.
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      APP_ORIGIN: https://${{ github.repository_owner }}.github.io
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install
+        run: if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
+      - name: Check streams (13 featured countries, 60 per country)
+        run: npx tsx scripts/check-streams.ts --featured --per-country 60 ${{ inputs.force && '--force' || '' }}
+      - name: Commit refreshed list
+        run: |
+          git config user.name "smarttv-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/channels.verified.json
+          if git diff --staged --quiet; then
+            echo "No change in the verified list."
+          else
+            git commit -m "chore: refresh verified channels [skip ci]"
+            git push
+          fi
+
+  build-and-deploy:
+    needs: check-streams
+    # Run after a successful check, or on push (check skipped). A failed check (guard tripped) blocks the deploy.
+    if: always() && (needs.check-streams.result == 'success' || needs.check-streams.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }} # includes the commit made by check-streams
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install
+        run: if [ -f package-lock.json ]; then npm ci; else npm install --no-audit --no-fund; fi
+      - name: Tests (Rule 1, Rule 2, parser, checker)
+        run: npm test
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: Build
+        run: npm run build
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deploy
+        uses: actions/deploy-pages@v4
