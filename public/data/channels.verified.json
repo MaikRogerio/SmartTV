@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-22T19:42:30.264Z",
+ "generatedAt": "2026-11-23T07:40:43.406Z",
  "source": "https://iptv-org.github.io/iptv/index.m3u",
  "total": 658,
- "online": 288,
+ "online": 282,
  "coverage": {
   "US": {
    "checked": 60,
@@ -18,15 +18,15 @@
   },
   "RU": {
    "checked": 60,
-   "online": 13
+   "online": 12
   },
   "AR": {
    "checked": 60,
-   "online": 35
+   "online": 32
   },
   "ES": {
    "checked": 60,
-   "online": 31
+   "online": 29
   },
   "PT": {
    "checked": 60,
@@ -34,11 +34,11 @@
   },
   "IT": {
    "checked": 60,
-   "online": 37
+   "online": 36
   },
   "BR": {
    "checked": 60,
-   "online": 22
+   "online": 21
   },
   "RO": {
    "checked": 60,
@@ -54,7 +54,7 @@
   },
   "HR": {
    "checked": 27,
-   "online": 6
+   "online": 8
   }
  },
  "channels": [
@@ -74,8 +74,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3800,
-   "checkedAt": "2026-11-22T19:41:37.248Z"
+   "latencyMs": 564,
+   "checkedAt": "2026-11-23T07:40:01.696Z"
   },
   {
    "id": "12lgrp",
@@ -90,8 +90,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3622,
-   "checkedAt": "2026-11-22T19:41:31.678Z"
+   "latencyMs": 1413,
+   "checkedAt": "2026-11-23T07:39:59.928Z"
   },
   {
    "id": "1vqsqez",
@@ -106,8 +106,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2226,
-   "checkedAt": "2026-11-22T19:41:35.362Z"
+   "latencyMs": 1127,
+   "checkedAt": "2026-11-23T07:40:01.864Z"
   },
   {
    "id": "fudr12",
@@ -124,25 +124,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1887,
-   "checkedAt": "2026-11-22T19:41:31.795Z"
-  },
-  {
-   "id": "1hmu01d",
-   "tvgId": "24Horas.es@SD",
-   "name": "24 Horas",
-   "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-   "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-   "country": "ES",
-   "countryName": "Spain",
-   "categories": [
-    "News",
-    "Public"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 2228,
-   "checkedAt": "2026-11-22T19:41:32.524Z"
+   "latencyMs": 1001,
+   "checkedAt": "2026-11-23T07:40:00.271Z"
   },
   {
    "id": "1n26c7m",
@@ -158,8 +141,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1955,
-   "checkedAt": "2026-11-22T19:41:32.527Z"
+   "latencyMs": 853,
+   "checkedAt": "2026-11-23T07:40:00.408Z"
   },
   {
    "id": "11193pl",
@@ -174,8 +157,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1821,
-   "checkedAt": "2026-11-22T19:41:32.598Z"
+   "latencyMs": 152,
+   "checkedAt": "2026-11-23T07:39:59.718Z"
   },
   {
    "id": "1gw0v18",
@@ -190,8 +173,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3156,
-   "checkedAt": "2026-11-22T19:41:33.448Z"
+   "latencyMs": 1600,
+   "checkedAt": "2026-11-23T07:40:01.100Z"
   },
   {
    "id": "vs09m7",
@@ -206,8 +189,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3226,
-   "checkedAt": "2026-11-22T19:41:34.210Z"
+   "latencyMs": 1248,
+   "checkedAt": "2026-11-23T07:40:00.837Z"
   },
   {
    "id": "sdos9g",
@@ -222,8 +205,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3503,
-   "checkedAt": "2026-11-22T19:41:34.727Z"
+   "latencyMs": 1518,
+   "checkedAt": "2026-11-23T07:40:01.236Z"
   },
   {
    "id": "1f7dbox",
@@ -238,8 +221,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3709,
-   "checkedAt": "2026-11-22T19:41:35.135Z"
+   "latencyMs": 1797,
+   "checkedAt": "2026-11-23T07:40:01.537Z"
   },
   {
    "id": "1a53rze",
@@ -254,8 +237,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4614,
-   "checkedAt": "2026-11-22T19:41:36.289Z"
+   "latencyMs": 1214,
+   "checkedAt": "2026-11-23T07:40:01.364Z"
   },
   {
    "id": "1g3u2hl",
@@ -270,8 +253,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4122,
-   "checkedAt": "2026-11-22T19:41:35.917Z"
+   "latencyMs": 1090,
+   "checkedAt": "2026-11-23T07:40:01.263Z"
   },
   {
    "id": "pwrjxw",
@@ -286,8 +269,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4902,
-   "checkedAt": "2026-11-22T19:41:37.103Z"
+   "latencyMs": 1348,
+   "checkedAt": "2026-11-23T07:40:01.533Z"
   },
   {
    "id": "3qmux9",
@@ -301,8 +284,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4539,
-   "checkedAt": "2026-11-22T19:41:36.815Z"
+   "latencyMs": 1290,
+   "checkedAt": "2026-11-23T07:40:01.561Z"
   },
   {
    "id": "15blzlh",
@@ -317,8 +300,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4816,
-   "checkedAt": "2026-11-22T19:41:37.125Z"
+   "latencyMs": 1220,
+   "checkedAt": "2026-11-23T07:40:01.560Z"
   },
   {
    "id": "7gr1iu",
@@ -333,15 +316,15 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4375,
-   "checkedAt": "2026-11-22T19:41:37.605Z"
+   "latencyMs": 1637,
+   "checkedAt": "2026-11-23T07:40:02.390Z"
   },
   {
-   "id": "z014sp",
+   "id": "1fjgvcg",
    "tvgId": "360News.ru@SD",
    "name": "360° News",
    "logo": "https://i.imgur.com/YXDeX8q.png",
-   "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+   "url": "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8",
    "country": "RU",
    "countryName": "Russia",
    "categories": [
@@ -349,8 +332,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4742,
-   "checkedAt": "2026-11-22T19:41:38.063Z"
+   "latencyMs": 2587,
+   "checkedAt": "2026-11-23T07:40:03.424Z"
   },
   {
    "id": "riig0l",
@@ -365,8 +348,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2512,
-   "checkedAt": "2026-11-22T19:41:30.572Z"
+   "latencyMs": 1223,
+   "checkedAt": "2026-11-23T07:39:59.740Z"
   },
   {
    "id": "1n8spyf",
@@ -381,8 +364,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 629,
-   "checkedAt": "2026-11-22T19:41:28.690Z"
+   "latencyMs": 747,
+   "checkedAt": "2026-11-23T07:39:59.265Z"
   },
   {
    "id": "1yc7q0z",
@@ -397,8 +380,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 704,
-   "checkedAt": "2026-11-22T19:41:28.766Z"
+   "latencyMs": 741,
+   "checkedAt": "2026-11-23T07:39:59.260Z"
   },
   {
    "id": "ajs3ur",
@@ -415,8 +398,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 699,
-   "checkedAt": "2026-11-22T19:41:28.762Z"
+   "latencyMs": 749,
+   "checkedAt": "2026-11-23T07:39:59.269Z"
   },
   {
    "id": "gs6s9e",
@@ -432,8 +415,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 708,
-   "checkedAt": "2026-11-22T19:41:28.772Z"
+   "latencyMs": 749,
+   "checkedAt": "2026-11-23T07:39:59.270Z"
   },
   {
    "id": "19rt3m7",
@@ -448,8 +431,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 698,
-   "checkedAt": "2026-11-22T19:41:28.763Z"
+   "latencyMs": 742,
+   "checkedAt": "2026-11-23T07:39:59.264Z"
   },
   {
    "id": "by8nyt",
@@ -464,8 +447,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4135,
-   "checkedAt": "2026-11-22T19:41:32.201Z"
+   "latencyMs": 1825,
+   "checkedAt": "2026-11-23T07:40:00.348Z"
   },
   {
    "id": "9hx4k6",
@@ -481,8 +464,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2116,
-   "checkedAt": "2026-11-22T19:41:30.183Z"
+   "latencyMs": 4116,
+   "checkedAt": "2026-11-23T07:40:02.640Z"
   },
   {
    "id": "j95usy",
@@ -500,8 +483,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5066,
-   "checkedAt": "2026-11-22T19:41:33.136Z"
+   "latencyMs": 1927,
+   "checkedAt": "2026-11-23T07:40:00.453Z"
   },
   {
    "id": "1kh2bmx",
@@ -517,8 +500,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1998,
-   "checkedAt": "2026-11-22T19:41:30.069Z"
+   "latencyMs": 2091,
+   "checkedAt": "2026-11-23T07:40:00.618Z"
   },
   {
    "id": "552vfm",
@@ -535,8 +518,8 @@
     "Geo-blocked"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3137,
-   "checkedAt": "2026-11-22T19:41:31.209Z"
+   "latencyMs": 1028,
+   "checkedAt": "2026-11-23T07:39:59.555Z"
   },
   {
    "id": "1oyyor7",
@@ -551,8 +534,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4960,
-   "checkedAt": "2026-11-22T19:41:37.359Z"
+   "latencyMs": 784,
+   "checkedAt": "2026-11-23T07:40:01.132Z"
   },
   {
    "id": "15768pd",
@@ -567,8 +550,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 530,
-   "checkedAt": "2026-11-22T19:41:33.038Z"
+   "latencyMs": 1177,
+   "checkedAt": "2026-11-23T07:40:01.553Z"
   },
   {
    "id": "1o67as2",
@@ -583,24 +566,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4237,
-   "checkedAt": "2026-11-22T19:41:32.309Z"
-  },
-  {
-   "id": "9b8q3o",
-   "tvgId": "50Canale.it@SD",
-   "name": "50 Canale",
-   "logo": "https://i.imgur.com/D3OTRzf.png",
-   "url": "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8",
-   "country": "IT",
-   "countryName": "Italy",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 5913,
-   "checkedAt": "2026-11-22T19:41:38.437Z"
+   "latencyMs": 1186,
+   "checkedAt": "2026-11-23T07:39:59.714Z"
   },
   {
    "id": "5ppiep",
@@ -616,8 +583,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 794,
-   "checkedAt": "2026-11-22T19:41:33.321Z"
+   "latencyMs": 1211,
+   "checkedAt": "2026-11-23T07:40:01.619Z"
   },
   {
    "id": "g14r",
@@ -632,8 +599,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1259,
-   "checkedAt": "2026-11-22T19:41:29.333Z"
+   "latencyMs": 757,
+   "checkedAt": "2026-11-23T07:39:59.286Z"
   },
   {
    "id": "8smtqg",
@@ -647,8 +614,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1208,
-   "checkedAt": "2026-11-22T19:41:29.284Z"
+   "latencyMs": 772,
+   "checkedAt": "2026-11-23T07:39:59.302Z"
   },
   {
    "id": "2z1dmp",
@@ -663,8 +630,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1832,
-   "checkedAt": "2026-11-22T19:41:29.908Z"
+   "latencyMs": 1439,
+   "checkedAt": "2026-11-23T07:39:59.970Z"
   },
   {
    "id": "150uzvr",
@@ -679,8 +646,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2141,
-   "checkedAt": "2026-11-22T19:41:34.739Z"
+   "latencyMs": 1220,
+   "checkedAt": "2026-11-23T07:40:01.656Z"
   },
   {
    "id": "1qod7km",
@@ -695,8 +662,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1763,
-   "checkedAt": "2026-11-22T19:41:34.441Z"
+   "latencyMs": 830,
+   "checkedAt": "2026-11-23T07:40:01.283Z"
   },
   {
    "id": "1efouua",
@@ -711,8 +678,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4054,
-   "checkedAt": "2026-11-22T19:41:32.131Z"
+   "latencyMs": 1808,
+   "checkedAt": "2026-11-23T07:40:00.340Z"
   },
   {
    "id": "1flwxab",
@@ -727,8 +694,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2536,
-   "checkedAt": "2026-11-22T19:41:31.224Z"
+   "latencyMs": 1201,
+   "checkedAt": "2026-11-23T07:40:00.173Z"
   },
   {
    "id": "1you4x3",
@@ -743,8 +710,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3818,
-   "checkedAt": "2026-11-22T19:41:32.508Z"
+   "latencyMs": 964,
+   "checkedAt": "2026-11-23T07:40:00.171Z"
   },
   {
    "id": "nxevc9",
@@ -759,8 +726,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2665,
-   "checkedAt": "2026-11-22T19:41:31.427Z"
+   "latencyMs": 962,
+   "checkedAt": "2026-11-23T07:40:00.187Z"
   },
   {
    "id": "19asq3w",
@@ -775,8 +742,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2663,
-   "checkedAt": "2026-11-22T19:41:31.426Z"
+   "latencyMs": 1243,
+   "checkedAt": "2026-11-23T07:40:00.469Z"
   },
   {
    "id": "83xjwi",
@@ -791,8 +758,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2909,
-   "checkedAt": "2026-11-22T19:41:31.675Z"
+   "latencyMs": 925,
+   "checkedAt": "2026-11-23T07:40:00.185Z"
   },
   {
    "id": "x7qx1n",
@@ -807,8 +774,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 628,
-   "checkedAt": "2026-11-22T19:41:33.388Z"
+   "latencyMs": 945,
+   "checkedAt": "2026-11-23T07:40:01.414Z"
   },
   {
    "id": "vt5mgc",
@@ -825,8 +792,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 4562,
-   "checkedAt": "2026-11-22T19:41:37.493Z"
+   "latencyMs": 1532,
+   "checkedAt": "2026-11-23T07:40:02.102Z"
   },
   {
    "id": "clt9o",
@@ -841,8 +808,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1853,
-   "checkedAt": "2026-11-22T19:41:31.137Z"
+   "latencyMs": 324,
+   "checkedAt": "2026-11-23T07:39:59.589Z"
   },
   {
    "id": "qnya1w",
@@ -857,8 +824,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1645,
-   "checkedAt": "2026-11-22T19:41:34.636Z"
+   "latencyMs": 1053,
+   "checkedAt": "2026-11-23T07:40:01.641Z"
   },
   {
    "id": "wmk1kr",
@@ -873,8 +840,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 752,
-   "checkedAt": "2026-11-22T19:41:33.790Z"
+   "latencyMs": 1390,
+   "checkedAt": "2026-11-23T07:40:02.008Z"
   },
   {
    "id": "1y6asry",
@@ -889,8 +856,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1828,
-   "checkedAt": "2026-11-22T19:41:34.889Z"
+   "latencyMs": 1126,
+   "checkedAt": "2026-11-23T07:40:01.820Z"
   },
   {
    "id": "1f8g5gs",
@@ -906,8 +873,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2786,
-   "checkedAt": "2026-11-22T19:41:36.597Z"
+   "latencyMs": 765,
+   "checkedAt": "2026-11-23T07:40:02.048Z"
   },
   {
    "id": "1c805sn",
@@ -922,8 +889,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4566,
-   "checkedAt": "2026-11-22T19:41:38.336Z"
+   "latencyMs": 2037,
+   "checkedAt": "2026-11-23T07:40:03.273Z"
   },
   {
    "id": "nqw0rz",
@@ -938,8 +905,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4827,
-   "checkedAt": "2026-11-22T19:41:38.617Z"
+   "latencyMs": 2657,
+   "checkedAt": "2026-11-23T07:40:03.920Z"
   },
   {
    "id": "4q6puf",
@@ -954,8 +921,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3460,
-   "checkedAt": "2026-11-22T19:41:37.901Z"
+   "latencyMs": 1508,
+   "checkedAt": "2026-11-23T07:40:02.922Z"
   },
   {
    "id": "1xhinkm",
@@ -970,8 +937,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3361,
-   "checkedAt": "2026-11-22T19:41:37.997Z"
+   "latencyMs": 592,
+   "checkedAt": "2026-11-23T07:40:02.125Z"
   },
   {
    "id": "1cwd58s",
@@ -986,8 +953,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3432,
-   "checkedAt": "2026-11-22T19:41:38.159Z"
+   "latencyMs": 823,
+   "checkedAt": "2026-11-23T07:40:02.360Z"
   },
   {
    "id": "1amq125",
@@ -1002,8 +969,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2806,
-   "checkedAt": "2026-11-22T19:41:37.545Z"
+   "latencyMs": 695,
+   "checkedAt": "2026-11-23T07:40:02.248Z"
   },
   {
    "id": "123jikb",
@@ -1018,8 +985,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3314,
-   "checkedAt": "2026-11-22T19:41:38.203Z"
+   "latencyMs": 569,
+   "checkedAt": "2026-11-23T07:40:02.129Z"
   },
   {
    "id": "b7eqoc",
@@ -1034,8 +1001,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2525,
-   "checkedAt": "2026-11-22T19:41:37.660Z"
+   "latencyMs": 662,
+   "checkedAt": "2026-11-23T07:40:02.223Z"
   },
   {
    "id": "gg2zk7",
@@ -1050,8 +1017,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6360,
-   "checkedAt": "2026-11-22T19:41:41.722Z"
+   "latencyMs": 1539,
+   "checkedAt": "2026-11-23T07:40:03.158Z"
   },
   {
    "id": "4cd3g6",
@@ -1066,8 +1033,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2356,
-   "checkedAt": "2026-11-22T19:41:38.273Z"
+   "latencyMs": 548,
+   "checkedAt": "2026-11-23T07:40:02.189Z"
   },
   {
    "id": "h570of",
@@ -1082,8 +1049,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4161,
-   "checkedAt": "2026-11-22T19:41:40.450Z"
+   "latencyMs": 800,
+   "checkedAt": "2026-11-23T07:40:02.456Z"
   },
   {
    "id": "1gwszwt",
@@ -1098,8 +1065,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3660,
-   "checkedAt": "2026-11-22T19:41:40.475Z"
+   "latencyMs": 489,
+   "checkedAt": "2026-11-23T07:40:02.309Z"
   },
   {
    "id": "mlqz1n",
@@ -1114,8 +1081,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1446,
-   "checkedAt": "2026-11-22T19:41:38.549Z"
+   "latencyMs": 926,
+   "checkedAt": "2026-11-23T07:40:02.757Z"
   },
   {
    "id": "14wlbp4",
@@ -1132,8 +1099,8 @@
     "Geo-blocked"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3088,
-   "checkedAt": "2026-11-22T19:41:40.213Z"
+   "latencyMs": 614,
+   "checkedAt": "2026-11-23T07:40:02.479Z"
   },
   {
    "id": "17qv8f8",
@@ -1148,8 +1115,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1288,
-   "checkedAt": "2026-11-22T19:41:38.781Z"
+   "latencyMs": 502,
+   "checkedAt": "2026-11-23T07:40:02.550Z"
   },
   {
    "id": "ik6tbn",
@@ -1164,8 +1131,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2898,
-   "checkedAt": "2026-11-22T19:41:40.443Z"
+   "latencyMs": 656,
+   "checkedAt": "2026-11-23T07:40:02.758Z"
   },
   {
    "id": "jbf6cx",
@@ -1180,8 +1147,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1219,
-   "checkedAt": "2026-11-22T19:41:38.824Z"
+   "latencyMs": 641,
+   "checkedAt": "2026-11-23T07:40:02.766Z"
   },
   {
    "id": "o2ux0h",
@@ -1196,8 +1163,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2737,
-   "checkedAt": "2026-11-22T19:41:40.397Z"
+   "latencyMs": 638,
+   "checkedAt": "2026-11-23T07:40:02.767Z"
   },
   {
    "id": "4jjbdu",
@@ -1212,8 +1179,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3352,
-   "checkedAt": "2026-11-22T19:41:41.415Z"
+   "latencyMs": 656,
+   "checkedAt": "2026-11-23T07:40:02.904Z"
   },
   {
    "id": "tuatnn",
@@ -1228,8 +1195,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2193,
-   "checkedAt": "2026-11-22T19:41:40.309Z"
+   "latencyMs": 751,
+   "checkedAt": "2026-11-23T07:40:03.016Z"
   },
   {
    "id": "tjbla8",
@@ -1244,8 +1211,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4116,
-   "checkedAt": "2026-11-22T19:41:42.234Z"
+   "latencyMs": 1561,
+   "checkedAt": "2026-11-23T07:40:03.870Z"
   },
   {
    "id": "q2euc3",
@@ -1260,8 +1227,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4907,
-   "checkedAt": "2026-11-22T19:41:43.037Z"
+   "latencyMs": 2255,
+   "checkedAt": "2026-11-23T07:40:04.615Z"
   },
   {
    "id": "pd3657",
@@ -1276,8 +1243,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5748,
-   "checkedAt": "2026-11-22T19:41:43.907Z"
+   "latencyMs": 1401,
+   "checkedAt": "2026-11-23T07:40:03.773Z"
   },
   {
    "id": "1c00mem",
@@ -1292,8 +1259,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2909,
-   "checkedAt": "2026-11-22T19:41:41.155Z"
+   "latencyMs": 1368,
+   "checkedAt": "2026-11-23T07:40:03.784Z"
   },
   {
    "id": "11f2h4d",
@@ -1308,8 +1275,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6335,
-   "checkedAt": "2026-11-22T19:41:44.608Z"
+   "latencyMs": 1540,
+   "checkedAt": "2026-11-23T07:40:03.996Z"
   },
   {
    "id": "16lsutm",
@@ -1324,8 +1291,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4528,
-   "checkedAt": "2026-11-22T19:41:42.864Z"
+   "latencyMs": 1260,
+   "checkedAt": "2026-11-23T07:40:03.739Z"
   },
   {
    "id": "hn8yjg",
@@ -1340,8 +1307,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4327,
-   "checkedAt": "2026-11-22T19:41:42.876Z"
+   "latencyMs": 1435,
+   "checkedAt": "2026-11-23T07:40:04.075Z"
   },
   {
    "id": "1425yhy",
@@ -1356,8 +1323,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2631,
-   "checkedAt": "2026-11-22T19:41:41.412Z"
+   "latencyMs": 1148,
+   "checkedAt": "2026-11-23T07:40:03.906Z"
   },
   {
    "id": "h7su4g",
@@ -1374,8 +1341,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 5473,
-   "checkedAt": "2026-11-22T19:41:44.297Z"
+   "latencyMs": 1946,
+   "checkedAt": "2026-11-23T07:40:04.712Z"
   },
   {
    "id": "16ik3sh",
@@ -1390,8 +1357,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4262,
-   "checkedAt": "2026-11-22T19:41:44.169Z"
+   "latencyMs": 1859,
+   "checkedAt": "2026-11-23T07:40:04.627Z"
   },
   {
    "id": "szxtyv",
@@ -1406,8 +1373,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2536,
-   "checkedAt": "2026-11-22T19:41:42.749Z"
+   "latencyMs": 1050,
+   "checkedAt": "2026-11-23T07:40:03.952Z"
   },
   {
    "id": "el8e4f",
@@ -1424,8 +1391,8 @@
     "Geo-blocked"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2309,
-   "checkedAt": "2026-11-22T19:41:42.575Z"
+   "latencyMs": 1695,
+   "checkedAt": "2026-11-23T07:40:04.599Z"
   },
   {
    "id": "2uv208",
@@ -1442,8 +1409,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3440,
-   "checkedAt": "2026-11-22T19:41:43.738Z"
+   "latencyMs": 1321,
+   "checkedAt": "2026-11-23T07:40:04.243Z"
   },
   {
    "id": "c7100l",
@@ -1458,8 +1425,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1658,
-   "checkedAt": "2026-11-22T19:41:42.055Z"
+   "latencyMs": 747,
+   "checkedAt": "2026-11-23T07:40:03.828Z"
   },
   {
    "id": "12xiicz",
@@ -1474,8 +1441,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4818,
-   "checkedAt": "2026-11-22T19:41:45.261Z"
+   "latencyMs": 1193,
+   "checkedAt": "2026-11-23T07:40:04.351Z"
   },
   {
    "id": "pwfv4g",
@@ -1490,8 +1457,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5003,
-   "checkedAt": "2026-11-22T19:41:45.453Z"
+   "latencyMs": 1301,
+   "checkedAt": "2026-11-23T07:40:04.574Z"
   },
   {
    "id": "7cywtv",
@@ -1508,8 +1475,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 5364,
-   "checkedAt": "2026-11-22T19:41:45.839Z"
+   "latencyMs": 1791,
+   "checkedAt": "2026-11-23T07:40:05.122Z"
   },
   {
    "id": "1l0y4do",
@@ -1524,8 +1491,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2494,
-   "checkedAt": "2026-11-22T19:41:43.909Z"
+   "latencyMs": 800,
+   "checkedAt": "2026-11-23T07:40:04.573Z"
   },
   {
    "id": "1efdbyx",
@@ -1540,8 +1507,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2749,
-   "checkedAt": "2026-11-22T19:41:44.471Z"
+   "latencyMs": 984,
+   "checkedAt": "2026-11-23T07:40:04.768Z"
   },
   {
    "id": "1fdqlfj",
@@ -1558,8 +1525,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1861,
-   "checkedAt": "2026-11-22T19:41:43.874Z"
+   "latencyMs": 330,
+   "checkedAt": "2026-11-23T07:40:04.158Z"
   },
   {
    "id": "1igr7cn",
@@ -1576,8 +1543,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3148,
-   "checkedAt": "2026-11-22T19:41:45.203Z"
+   "latencyMs": 1611,
+   "checkedAt": "2026-11-23T07:40:05.481Z"
   },
   {
    "id": "12gl9jw",
@@ -1592,8 +1559,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2399,
-   "checkedAt": "2026-11-22T19:41:46.088Z"
+   "latencyMs": 1053,
+   "checkedAt": "2026-11-23T07:40:05.211Z"
   },
   {
    "id": "li3kti",
@@ -1608,8 +1575,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1046,
-   "checkedAt": "2026-11-22T19:41:44.753Z"
+   "latencyMs": 896,
+   "checkedAt": "2026-11-23T07:40:05.139Z"
   },
   {
    "id": "nkss61",
@@ -1624,8 +1591,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2503,
-   "checkedAt": "2026-11-22T19:41:46.241Z"
+   "latencyMs": 956,
+   "checkedAt": "2026-11-23T07:40:05.307Z"
   },
   {
    "id": "1tlpf1m",
@@ -1640,8 +1607,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1460,
-   "checkedAt": "2026-11-22T19:41:45.367Z"
+   "latencyMs": 152,
+   "checkedAt": "2026-11-23T07:40:04.726Z"
   },
   {
    "id": "1i5mjwt",
@@ -1656,8 +1623,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1840,
-   "checkedAt": "2026-11-22T19:41:46.137Z"
+   "latencyMs": 773,
+   "checkedAt": "2026-11-23T07:40:05.372Z"
   },
   {
    "id": "9pt9p2",
@@ -1672,8 +1639,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5824,
-   "checkedAt": "2026-11-22T19:41:50.295Z"
+   "latencyMs": 2020,
+   "checkedAt": "2026-11-23T07:40:06.635Z"
   },
   {
    "id": "1w4pka6",
@@ -1688,8 +1655,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4705,
-   "checkedAt": "2026-11-22T19:41:49.458Z"
+   "latencyMs": 1660,
+   "checkedAt": "2026-11-23T07:40:06.424Z"
   },
   {
    "id": "4myye0",
@@ -1704,8 +1671,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4968,
-   "checkedAt": "2026-11-22T19:41:50.171Z"
+   "latencyMs": 1952,
+   "checkedAt": "2026-11-23T07:40:06.720Z"
   },
   {
    "id": "1r7oge8",
@@ -1720,8 +1687,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 260,
-   "checkedAt": "2026-11-22T19:41:45.521Z"
+   "latencyMs": 692,
+   "checkedAt": "2026-11-23T07:40:05.661Z"
   },
   {
    "id": "16u2o85",
@@ -1736,8 +1703,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4797,
-   "checkedAt": "2026-11-22T19:41:50.093Z"
+   "latencyMs": 1491,
+   "checkedAt": "2026-11-23T07:40:06.565Z"
   },
   {
    "id": "1o5wlb4",
@@ -1752,8 +1719,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4806,
-   "checkedAt": "2026-11-22T19:41:50.173Z"
+   "latencyMs": 1478,
+   "checkedAt": "2026-11-23T07:40:06.600Z"
   },
   {
    "id": "1vs2aed",
@@ -1768,8 +1735,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5823,
-   "checkedAt": "2026-11-22T19:41:51.276Z"
+   "latencyMs": 1805,
+   "checkedAt": "2026-11-23T07:40:06.944Z"
   },
   {
    "id": "16dco54",
@@ -1784,8 +1751,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3925,
-   "checkedAt": "2026-11-22T19:41:49.720Z"
+   "latencyMs": 1776,
+   "checkedAt": "2026-11-23T07:40:06.975Z"
   },
   {
    "id": "w5mad4",
@@ -1802,8 +1769,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3069,
-   "checkedAt": "2026-11-22T19:41:48.909Z"
+   "latencyMs": 1957,
+   "checkedAt": "2026-11-23T07:40:07.168Z"
   },
   {
    "id": "7ra43o",
@@ -1818,8 +1785,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4739,
-   "checkedAt": "2026-11-22T19:41:50.702Z"
+   "latencyMs": 1833,
+   "checkedAt": "2026-11-23T07:40:07.088Z"
   },
   {
    "id": "3mb948",
@@ -1834,8 +1801,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2891,
-   "checkedAt": "2026-11-22T19:41:49.076Z"
+   "latencyMs": 1519,
+   "checkedAt": "2026-11-23T07:40:06.891Z"
   },
   {
    "id": "1tigbnx",
@@ -1850,8 +1817,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3114,
-   "checkedAt": "2026-11-22T19:41:49.355Z"
+   "latencyMs": 1415,
+   "checkedAt": "2026-11-23T07:40:06.897Z"
   },
   {
    "id": "3argmd",
@@ -1866,8 +1833,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2608,
-   "checkedAt": "2026-11-22T19:41:49.496Z"
+   "latencyMs": 1402,
+   "checkedAt": "2026-11-23T07:40:07.063Z"
   },
   {
    "id": "1m7rrzb",
@@ -1882,8 +1849,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2337,
-   "checkedAt": "2026-11-22T19:41:49.882Z"
+   "latencyMs": 894,
+   "checkedAt": "2026-11-23T07:40:06.833Z"
   },
   {
    "id": "y7qqcs",
@@ -1898,8 +1865,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4633,
-   "checkedAt": "2026-11-22T19:41:52.426Z"
+   "latencyMs": 1738,
+   "checkedAt": "2026-11-23T07:40:07.773Z"
   },
   {
    "id": "ibisb2",
@@ -1914,8 +1881,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2427,
-   "checkedAt": "2026-11-22T19:41:50.706Z"
+   "latencyMs": 1084,
+   "checkedAt": "2026-11-23T07:40:07.278Z"
   },
   {
    "id": "1bovvxi",
@@ -1930,8 +1897,40 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2102,
-   "checkedAt": "2026-11-22T19:41:51.178Z"
+   "latencyMs": 928,
+   "checkedAt": "2026-11-23T07:40:07.493Z"
+  },
+  {
+   "id": "69g41k",
+   "tvgId": "AutoPlus.ru@SD",
+   "name": "Auto Plus",
+   "logo": "https://i.imgur.com/sVc8cFt.png",
+   "url": "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8",
+   "country": "RU",
+   "countryName": "Russia",
+   "categories": [
+    "Auto"
+   ],
+   "flags": [],
+   "requiresHeaders": false,
+   "latencyMs": 974,
+   "checkedAt": "2026-11-23T07:40:07.545Z"
+  },
+  {
+   "id": "ki7a4f",
+   "tvgId": "AXN.es@SD",
+   "name": "AXN (Spain)",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703",
+   "country": "ES",
+   "countryName": "Spain",
+   "categories": [
+    "Movies"
+   ],
+   "flags": [],
+   "requiresHeaders": false,
+   "latencyMs": 1895,
+   "checkedAt": "2026-11-23T07:40:08.490Z"
   },
   {
    "id": "11x8awm",
@@ -1946,8 +1945,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2537,
-   "checkedAt": "2026-11-22T19:41:51.995Z"
+   "latencyMs": 640,
+   "checkedAt": "2026-11-23T07:40:07.240Z"
   },
   {
    "id": "181x9se",
@@ -1962,8 +1961,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2232,
-   "checkedAt": "2026-11-22T19:41:51.728Z"
+   "latencyMs": 114,
+   "checkedAt": "2026-11-23T07:40:06.750Z"
   },
   {
    "id": "wwsk8m",
@@ -1978,8 +1977,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2301,
-   "checkedAt": "2026-11-22T19:41:51.837Z"
+   "latencyMs": 1290,
+   "checkedAt": "2026-11-23T07:40:08.010Z"
   },
   {
    "id": "9siyha",
@@ -1994,8 +1993,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3054,
-   "checkedAt": "2026-11-22T19:41:52.774Z"
+   "latencyMs": 1453,
+   "checkedAt": "2026-11-23T07:40:08.203Z"
   },
   {
    "id": "7fjpfb",
@@ -2010,8 +2009,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1311,
-   "checkedAt": "2026-11-22T19:41:51.085Z"
+   "latencyMs": 294,
+   "checkedAt": "2026-11-23T07:40:07.127Z"
   },
   {
    "id": "13c3r13",
@@ -2026,8 +2025,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1238,
-   "checkedAt": "2026-11-22T19:41:51.120Z"
+   "latencyMs": 110,
+   "checkedAt": "2026-11-23T07:40:07.001Z"
   },
   {
    "id": "mjo78w",
@@ -2042,8 +2041,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3001,
-   "checkedAt": "2026-11-22T19:41:54.179Z"
+   "latencyMs": 1610,
+   "checkedAt": "2026-11-23T07:40:08.888Z"
   },
   {
    "id": "1au6rqe",
@@ -2058,8 +2057,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2010,
-   "checkedAt": "2026-11-22T19:41:53.242Z"
+   "latencyMs": 199,
+   "checkedAt": "2026-11-23T07:40:07.692Z"
   },
   {
    "id": "37yp1y",
@@ -2074,8 +2073,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2385,
-   "checkedAt": "2026-11-22T19:41:53.661Z"
+   "latencyMs": 1075,
+   "checkedAt": "2026-11-23T07:40:08.587Z"
   },
   {
    "id": "1s1v6xo",
@@ -2090,8 +2089,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3099,
-   "checkedAt": "2026-11-22T19:41:57.366Z"
+   "latencyMs": 1478,
+   "checkedAt": "2026-11-23T07:40:09.251Z"
   },
   {
    "id": "1raxbsv",
@@ -2106,8 +2105,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4802,
-   "checkedAt": "2026-11-22T19:41:56.797Z"
+   "latencyMs": 2471,
+   "checkedAt": "2026-11-23T07:40:10.294Z"
   },
   {
    "id": "1hggcza",
@@ -2122,8 +2121,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3357,
-   "checkedAt": "2026-11-22T19:41:56.599Z"
+   "latencyMs": 1542,
+   "checkedAt": "2026-11-23T07:40:09.676Z"
   },
   {
    "id": "2p88op",
@@ -2138,8 +2137,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3025,
-   "checkedAt": "2026-11-22T19:41:56.330Z"
+   "latencyMs": 1075,
+   "checkedAt": "2026-11-23T07:40:09.210Z"
   },
   {
    "id": "gjcx47",
@@ -2154,8 +2153,24 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3324,
-   "checkedAt": "2026-11-22T19:41:56.846Z"
+   "latencyMs": 1649,
+   "checkedAt": "2026-11-23T07:40:09.785Z"
+  },
+  {
+   "id": "1t3zt1h",
+   "tvgId": "Belgorod24.ru@SD",
+   "name": "Belgorod 24",
+   "logo": "https://i.imgur.com/EEirvyx.png",
+   "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
+   "country": "RU",
+   "countryName": "Russia",
+   "categories": [
+    "General"
+   ],
+   "flags": [],
+   "requiresHeaders": false,
+   "latencyMs": 1724,
+   "checkedAt": "2026-11-23T07:40:09.876Z"
   },
   {
    "id": "1i0ytf7",
@@ -2170,24 +2185,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4239,
-   "checkedAt": "2026-11-22T19:41:57.849Z"
-  },
-  {
-   "id": "1tka628",
-   "tvgId": "BigPlanet.ru@SD",
-   "name": "Big Planet",
-   "logo": "https://i.imgur.com/wyuqWTR.png",
-   "url": "https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv",
-   "country": "RU",
-   "countryName": "Russia",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 1899,
-   "checkedAt": "2026-11-22T19:41:55.510Z"
+   "latencyMs": 1522,
+   "checkedAt": "2026-11-23T07:40:09.722Z"
   },
   {
    "id": "t2wj20",
@@ -2202,8 +2201,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4405,
-   "checkedAt": "2026-11-22T19:41:58.047Z"
+   "latencyMs": 2314,
+   "checkedAt": "2026-11-23T07:40:10.600Z"
   },
   {
    "id": "1p624td",
@@ -2218,24 +2217,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 7301,
-   "checkedAt": "2026-11-22T19:42:01.480Z"
-  },
-  {
-   "id": "zh2mo6",
-   "tvgId": "BoasNovas.br@SD",
-   "name": "Boas Novas",
-   "logo": "https://i.imgur.com/ZqhizdP.png",
-   "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-   "country": "BR",
-   "countryName": "Brazil",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 3606,
-   "checkedAt": "2026-11-22T19:41:57.790Z"
+   "latencyMs": 1827,
+   "checkedAt": "2026-11-23T07:40:10.510Z"
   },
   {
    "id": "1t87jqb",
@@ -2250,8 +2233,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2711,
-   "checkedAt": "2026-11-22T19:41:57.148Z"
+   "latencyMs": 905,
+   "checkedAt": "2026-11-23T07:40:10.083Z"
   },
   {
    "id": "gonvwq",
@@ -2267,8 +2250,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3460,
-   "checkedAt": "2026-11-22T19:41:58.970Z"
+   "latencyMs": 387,
+   "checkedAt": "2026-11-23T07:40:09.597Z"
   },
   {
    "id": "1b92ghk",
@@ -2283,8 +2266,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6402,
-   "checkedAt": "2026-11-22T19:42:02.233Z"
+   "latencyMs": 612,
+   "checkedAt": "2026-11-23T07:40:09.863Z"
   },
   {
    "id": "1ej0dw5",
@@ -2299,8 +2282,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2638,
-   "checkedAt": "2026-11-22T19:41:58.490Z"
+   "latencyMs": 1214,
+   "checkedAt": "2026-11-23T07:40:10.811Z"
   },
   {
    "id": "19jyzgv",
@@ -2315,8 +2298,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 9573,
-   "checkedAt": "2026-11-22T19:42:05.490Z"
+   "latencyMs": 1963,
+   "checkedAt": "2026-11-23T07:40:11.639Z"
   },
   {
    "id": "w5h24x",
@@ -2332,24 +2315,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2134,
-   "checkedAt": "2026-11-22T19:41:58.096Z"
-  },
-  {
-   "id": "10sayk",
-   "tvgId": "BST.ru@SD",
-   "name": "BST",
-   "logo": "https://i.imgur.com/IDotHmQ.png",
-   "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
-   "country": "RU",
-   "countryName": "Russia",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 6437,
-   "checkedAt": "2026-11-22T19:42:03.586Z"
+   "latencyMs": 680,
+   "checkedAt": "2026-11-23T07:40:10.402Z"
   },
   {
    "id": "vr0fnq",
@@ -2364,8 +2331,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6887,
-   "checkedAt": "2026-11-22T19:42:04.042Z"
+   "latencyMs": 2208,
+   "checkedAt": "2026-11-23T07:40:12.142Z"
   },
   {
    "id": "o858h2",
@@ -2380,8 +2347,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5408,
-   "checkedAt": "2026-11-22T19:42:02.774Z"
+   "latencyMs": 866,
+   "checkedAt": "2026-11-23T07:40:10.876Z"
   },
   {
    "id": "ojfla",
@@ -2398,8 +2365,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 4030,
-   "checkedAt": "2026-11-22T19:42:01.763Z"
+   "latencyMs": 682,
+   "checkedAt": "2026-11-23T07:40:10.765Z"
   },
   {
    "id": "1y8q30k",
@@ -2414,8 +2381,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4100,
-   "checkedAt": "2026-11-22T19:42:01.949Z"
+   "latencyMs": 626,
+   "checkedAt": "2026-11-23T07:40:11.028Z"
   },
   {
    "id": "192htpw",
@@ -2430,8 +2397,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4640,
-   "checkedAt": "2026-11-22T19:42:02.736Z"
+   "latencyMs": 834,
+   "checkedAt": "2026-11-23T07:40:11.434Z"
   },
   {
    "id": "4lomsp",
@@ -2446,8 +2413,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4725,
-   "checkedAt": "2026-11-22T19:42:03.014Z"
+   "latencyMs": 1042,
+   "checkedAt": "2026-11-23T07:40:11.807Z"
   },
   {
    "id": "z1zzly",
@@ -2462,8 +2429,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 8113,
-   "checkedAt": "2026-11-22T19:42:06.407Z"
+   "latencyMs": 2034,
+   "checkedAt": "2026-11-23T07:40:12.862Z"
   },
   {
    "id": "rmaxgz",
@@ -2478,8 +2445,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 925,
-   "checkedAt": "2026-11-22T19:42:07.332Z"
+   "latencyMs": 132,
+   "checkedAt": "2026-11-23T07:40:13.781Z"
   },
   {
    "id": "1trketq",
@@ -2494,8 +2461,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1757,
-   "checkedAt": "2026-11-22T19:42:08.285Z"
+   "latencyMs": 540,
+   "checkedAt": "2026-11-23T07:40:14.341Z"
   },
   {
    "id": "18l8a2v",
@@ -2510,8 +2477,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2449,
-   "checkedAt": "2026-11-22T19:42:09.206Z"
+   "latencyMs": 1633,
+   "checkedAt": "2026-11-23T07:40:15.452Z"
   },
   {
    "id": "14yqjig",
@@ -2526,8 +2493,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3998,
-   "checkedAt": "2026-11-22T19:42:02.728Z"
+   "latencyMs": 676,
+   "checkedAt": "2026-11-23T07:40:11.552Z"
   },
   {
    "id": "1rdisvf",
@@ -2542,8 +2509,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6054,
-   "checkedAt": "2026-11-22T19:42:05.024Z"
+   "latencyMs": 953,
+   "checkedAt": "2026-11-23T07:40:11.837Z"
   },
   {
    "id": "1ffhhsf",
@@ -2558,8 +2525,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 7438,
-   "checkedAt": "2026-11-22T19:42:08.025Z"
+   "latencyMs": 2965,
+   "checkedAt": "2026-11-23T07:40:13.993Z"
   },
   {
    "id": "1no4xx",
@@ -2574,24 +2541,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2373,
-   "checkedAt": "2026-11-22T19:42:02.981Z"
-  },
-  {
-   "id": "yrfkdu",
-   "tvgId": "Canal21TV.ar@SD",
-   "name": "Canal 21 TV",
-   "logo": "https://i.imgur.com/Am7yMXg.png",
-   "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8",
-   "country": "AR",
-   "countryName": "Argentina",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 2592,
-   "checkedAt": "2026-11-22T19:42:10.765Z"
+   "latencyMs": 349,
+   "checkedAt": "2026-11-23T07:40:11.712Z"
   },
   {
    "id": "89hdku",
@@ -2608,8 +2559,8 @@
     "Geo-blocked"
    ],
    "requiresHeaders": false,
-   "latencyMs": 445,
-   "checkedAt": "2026-11-22T19:42:08.649Z"
+   "latencyMs": 153,
+   "checkedAt": "2026-11-23T07:40:14.979Z"
   },
   {
    "id": "1tet6a8",
@@ -2624,8 +2575,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 820,
-   "checkedAt": "2026-11-22T19:42:09.105Z"
+   "latencyMs": 165,
+   "checkedAt": "2026-11-23T07:40:15.073Z"
   },
   {
    "id": "fooo2j",
@@ -2640,8 +2591,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 7785,
-   "checkedAt": "2026-11-22T19:42:08.493Z"
+   "latencyMs": 3077,
+   "checkedAt": "2026-11-23T07:40:14.452Z"
   },
   {
    "id": "1ahddi5",
@@ -2656,8 +2607,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2080,
-   "checkedAt": "2026-11-22T19:42:03.560Z"
+   "latencyMs": 231,
+   "checkedAt": "2026-11-23T07:40:11.656Z"
   },
   {
    "id": "16vqitw",
@@ -2672,8 +2623,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1793,
-   "checkedAt": "2026-11-22T19:42:03.556Z"
+   "latencyMs": 394,
+   "checkedAt": "2026-11-23T07:40:11.828Z"
   },
   {
    "id": "b9ylsc",
@@ -2690,8 +2641,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 4579,
-   "checkedAt": "2026-11-22T19:42:06.528Z"
+   "latencyMs": 1197,
+   "checkedAt": "2026-11-23T07:40:12.749Z"
   },
   {
    "id": "iagdoz",
@@ -2706,8 +2657,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3795,
-   "checkedAt": "2026-11-22T19:42:12.288Z"
+   "latencyMs": 1668,
+   "checkedAt": "2026-11-23T07:40:16.631Z"
   },
   {
    "id": "142fd64",
@@ -2723,8 +2674,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 677,
-   "checkedAt": "2026-11-22T19:42:09.282Z"
+   "latencyMs": 226,
+   "checkedAt": "2026-11-23T07:40:15.205Z"
   },
   {
    "id": "1r3gdvf",
@@ -2739,8 +2690,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3289,
-   "checkedAt": "2026-11-22T19:42:11.938Z"
+   "latencyMs": 1571,
+   "checkedAt": "2026-11-23T07:40:16.644Z"
   },
   {
    "id": "1ecyzxw",
@@ -2755,42 +2706,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 208,
-   "checkedAt": "2026-11-22T19:42:02.441Z"
-  },
-  {
-   "id": "py72ks",
-   "tvgId": "Canal4ManchaCentro.es@SD",
-   "name": "Canal 4 Mancha Centro",
-   "logo": "https://i.imgur.com/t3O3O9M.png",
-   "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
-   "country": "ES",
-   "countryName": "Spain",
-   "categories": [
-    "General"
-   ],
-   "flags": [
-    "Not 24/7"
-   ],
-   "requiresHeaders": false,
-   "latencyMs": 2462,
-   "checkedAt": "2026-11-22T19:42:05.190Z"
-  },
-  {
-   "id": "djt247",
-   "tvgId": "Canal4SanJuan.ar@SD",
-   "name": "Canal 4 San Juan",
-   "logo": "https://i.imgur.com/MsCnwRA.png",
-   "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-   "country": "AR",
-   "countryName": "Argentina",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 272,
-   "checkedAt": "2026-11-22T19:42:03.008Z"
+   "latencyMs": 376,
+   "checkedAt": "2026-11-23T07:40:12.015Z"
   },
   {
    "id": "1ew6got",
@@ -2805,8 +2722,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6278,
-   "checkedAt": "2026-11-22T19:42:09.052Z"
+   "latencyMs": 2731,
+   "checkedAt": "2026-11-23T07:40:14.559Z"
   },
   {
    "id": "9jfp66",
@@ -2821,8 +2738,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 6347,
-   "checkedAt": "2026-11-22T19:42:09.328Z"
+   "latencyMs": 3108,
+   "checkedAt": "2026-11-23T07:40:14.945Z"
   },
   {
    "id": "o0p9j9",
@@ -2839,8 +2756,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 33,
-   "checkedAt": "2026-11-22T19:42:09.085Z"
+   "latencyMs": 77,
+   "checkedAt": "2026-11-23T07:40:15.282Z"
   },
   {
    "id": "13ritup",
@@ -2855,8 +2772,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3184,
-   "checkedAt": "2026-11-22T19:42:12.269Z"
+   "latencyMs": 1531,
+   "checkedAt": "2026-11-23T07:40:16.813Z"
   },
   {
    "id": "if90jy",
@@ -2873,8 +2790,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1884,
-   "checkedAt": "2026-11-22T19:42:09.111Z"
+   "latencyMs": 588,
+   "checkedAt": "2026-11-23T07:40:12.443Z"
   },
   {
    "id": "a976sy",
@@ -2889,8 +2806,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 209,
-   "checkedAt": "2026-11-22T19:42:03.223Z"
+   "latencyMs": 236,
+   "checkedAt": "2026-11-23T07:40:12.251Z"
   },
   {
    "id": "3efp01",
@@ -2905,8 +2822,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4097,
-   "checkedAt": "2026-11-22T19:42:07.254Z"
+   "latencyMs": 158,
+   "checkedAt": "2026-11-23T07:40:12.300Z"
   },
   {
    "id": "vidh8t",
@@ -2921,8 +2838,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4105,
-   "checkedAt": "2026-11-22T19:42:07.328Z"
+   "latencyMs": 557,
+   "checkedAt": "2026-11-23T07:40:12.789Z"
   },
   {
    "id": "6943oe",
@@ -2937,8 +2854,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5930,
-   "checkedAt": "2026-11-22T19:42:09.486Z"
+   "latencyMs": 3745,
+   "checkedAt": "2026-11-23T07:40:15.996Z"
   },
   {
    "id": "1dn50f9",
@@ -2953,24 +2870,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4351,
-   "checkedAt": "2026-11-22T19:42:14.570Z"
-  },
-  {
-   "id": "1pi72ir",
-   "tvgId": "Canal7Jujuy.ar@SD",
-   "name": "Canal 7 Jujuy",
-   "logo": "https://i.imgur.com/K0jk8p4.png",
-   "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
-   "country": "AR",
-   "countryName": "Argentina",
-   "categories": [
-    "General"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 2876,
-   "checkedAt": "2026-11-22T19:42:06.462Z"
+   "latencyMs": 2608,
+   "checkedAt": "2026-11-23T07:40:14.908Z"
   },
   {
    "id": "c33unf",
@@ -2985,8 +2886,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 209,
-   "checkedAt": "2026-11-22T19:42:04.210Z"
+   "latencyMs": 235,
+   "checkedAt": "2026-11-23T07:40:12.984Z"
   },
   {
    "id": "1coaeua",
@@ -3001,8 +2902,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 197,
-   "checkedAt": "2026-11-22T19:42:04.239Z"
+   "latencyMs": 185,
+   "checkedAt": "2026-11-23T07:40:12.974Z"
   },
   {
    "id": "1xnstzd",
@@ -3017,8 +2918,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5170,
-   "checkedAt": "2026-11-22T19:42:09.380Z"
+   "latencyMs": 1751,
+   "checkedAt": "2026-11-23T07:40:14.613Z"
   },
   {
    "id": "12438bs",
@@ -3033,8 +2934,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 206,
-   "checkedAt": "2026-11-22T19:42:04.445Z"
+   "latencyMs": 233,
+   "checkedAt": "2026-11-23T07:40:13.207Z"
   },
   {
    "id": "3fianm",
@@ -3051,8 +2952,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3636,
-   "checkedAt": "2026-11-22T19:42:08.081Z"
+   "latencyMs": 817,
+   "checkedAt": "2026-11-23T07:40:13.801Z"
   },
   {
    "id": "1p2ejw9",
@@ -3067,8 +2968,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1916,
-   "checkedAt": "2026-11-22T19:42:07.106Z"
+   "latencyMs": 442,
+   "checkedAt": "2026-11-23T07:40:13.649Z"
   },
   {
    "id": "1w2dlks",
@@ -3083,8 +2984,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1247,
-   "checkedAt": "2026-11-22T19:42:10.358Z"
+   "latencyMs": 887,
+   "checkedAt": "2026-11-23T07:40:16.256Z"
   },
   {
    "id": "1dmqu24",
@@ -3099,26 +3000,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3212,
-   "checkedAt": "2026-11-22T19:42:12.418Z"
-  },
-  {
-   "id": "11awr9",
-   "tvgId": "CanalDonana.es@SD",
-   "name": "Canal Donana",
-   "logo": "https://i.imgur.com/0WrKIxm.png",
-   "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-   "country": "ES",
-   "countryName": "Spain",
-   "categories": [
-    "General"
-   ],
-   "flags": [
-    "Not 24/7"
-   ],
-   "requiresHeaders": false,
-   "latencyMs": 3566,
-   "checkedAt": "2026-11-22T19:42:12.895Z"
+   "latencyMs": 1548,
+   "checkedAt": "2026-11-23T07:40:17.000Z"
   },
   {
    "id": "1ydqqvu",
@@ -3135,8 +3018,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2805,
-   "checkedAt": "2026-11-22T19:42:12.294Z"
+   "latencyMs": 1326,
+   "checkedAt": "2026-11-23T07:40:17.582Z"
   },
   {
    "id": "691i6s",
@@ -3151,8 +3034,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3135,
-   "checkedAt": "2026-11-22T19:42:12.672Z"
+   "latencyMs": 1231,
+   "checkedAt": "2026-11-23T07:40:17.627Z"
   },
   {
    "id": "rfse8w",
@@ -3167,8 +3050,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2110,
-   "checkedAt": "2026-11-22T19:42:11.931Z"
+   "latencyMs": 503,
+   "checkedAt": "2026-11-23T07:40:16.995Z"
   },
   {
    "id": "1rvfg1a",
@@ -3185,8 +3068,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2221,
-   "checkedAt": "2026-11-22T19:42:12.381Z"
+   "latencyMs": 1711,
+   "checkedAt": "2026-11-23T07:40:18.332Z"
   },
   {
    "id": "16e4qj3",
@@ -3203,8 +3086,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1437,
-   "checkedAt": "2026-11-22T19:42:11.795Z"
+   "latencyMs": 189,
+   "checkedAt": "2026-11-23T07:40:16.820Z"
   },
   {
    "id": "qgk6zb",
@@ -3221,8 +3104,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1584,
-   "checkedAt": "2026-11-22T19:42:12.308Z"
+   "latencyMs": 411,
+   "checkedAt": "2026-11-23T07:40:17.055Z"
   },
   {
    "id": "156bbeq",
@@ -3239,8 +3122,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 441,
-   "checkedAt": "2026-11-22T19:42:12.236Z"
+   "latencyMs": 498,
+   "checkedAt": "2026-11-23T07:40:17.308Z"
   },
   {
    "id": "imax87",
@@ -3256,8 +3139,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 487,
-   "checkedAt": "2026-11-22T19:42:12.407Z"
+   "latencyMs": 402,
+   "checkedAt": "2026-11-23T07:40:17.222Z"
   },
   {
    "id": "13kj0p2",
@@ -3274,8 +3157,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 968,
-   "checkedAt": "2026-11-22T19:42:12.906Z"
+   "latencyMs": 925,
+   "checkedAt": "2026-11-23T07:40:17.920Z"
   },
   {
    "id": "p2ln1n",
@@ -3290,24 +3173,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1311,
-   "checkedAt": "2026-11-22T19:42:13.386Z"
-  },
-  {
-   "id": "1gejxsi",
-   "tvgId": "CarouselInternational.ru@SD",
-   "name": "Carousel International",
-   "logo": "https://i.imgur.com/DnlngRZ.png",
-   "url": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv",
-   "country": "RU",
-   "countryName": "Russia",
-   "categories": [
-    "Kids"
-   ],
-   "flags": [],
-   "requiresHeaders": false,
-   "latencyMs": 1314,
-   "checkedAt": "2026-11-22T19:42:13.463Z"
+   "latencyMs": 1257,
+   "checkedAt": "2026-11-23T07:40:18.267Z"
   },
   {
    "id": "gem400",
@@ -3323,8 +3190,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1072,
-   "checkedAt": "2026-11-22T19:42:13.308Z"
+   "latencyMs": 1735,
+   "checkedAt": "2026-11-23T07:40:18.957Z"
   },
   {
    "id": "1bd2y9d",
@@ -3341,8 +3208,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1343,
-   "checkedAt": "2026-11-22T19:42:13.631Z"
+   "latencyMs": 1452,
+   "checkedAt": "2026-11-23T07:40:19.079Z"
   },
   {
    "id": "1bakp5b",
@@ -3359,8 +3226,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1401,
-   "checkedAt": "2026-11-22T19:42:13.695Z"
+   "latencyMs": 1470,
+   "checkedAt": "2026-11-23T07:40:19.108Z"
   },
   {
    "id": "jr899j",
@@ -3375,8 +3242,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1349,
-   "checkedAt": "2026-11-22T19:42:13.618Z"
+   "latencyMs": 1455,
+   "checkedAt": "2026-11-23T07:40:19.037Z"
   },
   {
    "id": "1envzp1",
@@ -3391,8 +3258,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 315,
-   "checkedAt": "2026-11-22T19:42:12.623Z"
+   "latencyMs": 184,
+   "checkedAt": "2026-11-23T07:40:17.842Z"
   },
   {
    "id": "124a4u1",
@@ -3407,8 +3274,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 638,
-   "checkedAt": "2026-11-22T19:42:13.019Z"
+   "latencyMs": 401,
+   "checkedAt": "2026-11-23T07:40:18.243Z"
   },
   {
    "id": "7thele",
@@ -3423,8 +3290,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 935,
-   "checkedAt": "2026-11-22T19:42:13.342Z"
+   "latencyMs": 355,
+   "checkedAt": "2026-11-23T07:40:18.281Z"
   },
   {
    "id": "157fgqw",
@@ -3439,8 +3306,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 663,
-   "checkedAt": "2026-11-22T19:42:13.286Z"
+   "latencyMs": 871,
+   "checkedAt": "2026-11-23T07:40:19.138Z"
   },
   {
    "id": "1obss6q",
@@ -3455,8 +3322,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1446,
-   "checkedAt": "2026-11-22T19:42:14.104Z"
+   "latencyMs": 1020,
+   "checkedAt": "2026-11-23T07:40:19.301Z"
   },
   {
    "id": "1gsii86",
@@ -3471,8 +3338,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1476,
-   "checkedAt": "2026-11-22T19:42:14.261Z"
+   "latencyMs": 1424,
+   "checkedAt": "2026-11-23T07:40:19.975Z"
   },
   {
    "id": "10za7qi",
@@ -3487,8 +3354,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1643,
-   "checkedAt": "2026-11-22T19:42:14.538Z"
+   "latencyMs": 1165,
+   "checkedAt": "2026-11-23T07:40:19.963Z"
   },
   {
    "id": "2w522u",
@@ -3503,8 +3370,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2151,
-   "checkedAt": "2026-11-22T19:42:15.170Z"
+   "latencyMs": 899,
+   "checkedAt": "2026-11-23T07:40:19.726Z"
   },
   {
    "id": "t8yosm",
@@ -3519,8 +3386,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2186,
-   "checkedAt": "2026-11-22T19:42:15.230Z"
+   "latencyMs": 761,
+   "checkedAt": "2026-11-23T07:40:19.623Z"
   },
   {
    "id": "nafsji",
@@ -3535,8 +3402,24 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1114,
-   "checkedAt": "2026-11-22T19:42:14.353Z"
+   "latencyMs": 522,
+   "checkedAt": "2026-11-23T07:40:19.479Z"
+  },
+  {
+   "id": "c2b0kc",
+   "tvgId": "CMCTV.hr@SD",
+   "name": "CMC TV",
+   "logo": "https://i.imgur.com/FCb7Ag2.png",
+   "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+   "country": "HR",
+   "countryName": "Croatia",
+   "categories": [
+    "Music"
+   ],
+   "flags": [],
+   "requiresHeaders": false,
+   "latencyMs": 1219,
+   "checkedAt": "2026-11-23T07:40:20.256Z"
   },
   {
    "id": "8xple5",
@@ -3551,8 +3434,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1221,
-   "checkedAt": "2026-11-22T19:42:14.529Z"
+   "latencyMs": 360,
+   "checkedAt": "2026-11-23T07:40:19.439Z"
   },
   {
    "id": "q4pgc6",
@@ -3567,8 +3450,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4072,
-   "checkedAt": "2026-11-22T19:42:17.414Z"
+   "latencyMs": 1928,
+   "checkedAt": "2026-11-23T07:40:21.036Z"
   },
   {
    "id": "13s0yyw",
@@ -3583,8 +3466,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1899,
-   "checkedAt": "2026-11-22T19:42:15.285Z"
+   "latencyMs": 1698,
+   "checkedAt": "2026-11-23T07:40:20.836Z"
   },
   {
    "id": "1l08tw0",
@@ -3599,8 +3482,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 911,
-   "checkedAt": "2026-11-22T19:42:14.374Z"
+   "latencyMs": 333,
+   "checkedAt": "2026-11-23T07:40:19.634Z"
   },
   {
    "id": "1wn01mf",
@@ -3615,8 +3498,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1596,
-   "checkedAt": "2026-11-22T19:42:15.126Z"
+   "latencyMs": 489,
+   "checkedAt": "2026-11-23T07:40:19.806Z"
   },
   {
    "id": "1brlo9n",
@@ -3631,8 +3514,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1094,
-   "checkedAt": "2026-11-22T19:42:14.712Z"
+   "latencyMs": 794,
+   "checkedAt": "2026-11-23T07:40:20.114Z"
   },
   {
    "id": "1odomi",
@@ -3647,8 +3530,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1105,
-   "checkedAt": "2026-11-22T19:42:14.736Z"
+   "latencyMs": 875,
+   "checkedAt": "2026-11-23T07:40:20.208Z"
   },
   {
    "id": "8rr92u",
@@ -3663,8 +3546,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1411,
-   "checkedAt": "2026-11-22T19:42:15.106Z"
+   "latencyMs": 1295,
+   "checkedAt": "2026-11-23T07:40:20.719Z"
   },
   {
    "id": "19txkh9",
@@ -3679,8 +3562,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1387,
-   "checkedAt": "2026-11-22T19:42:15.177Z"
+   "latencyMs": 456,
+   "checkedAt": "2026-11-23T07:40:19.895Z"
   },
   {
    "id": "rgzahe",
@@ -3695,8 +3578,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1671,
-   "checkedAt": "2026-11-22T19:42:15.626Z"
+   "latencyMs": 490,
+   "checkedAt": "2026-11-23T07:40:19.969Z"
   },
   {
    "id": "1jtr0s5",
@@ -3711,8 +3594,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 822,
-   "checkedAt": "2026-11-22T19:42:14.785Z"
+   "latencyMs": 449,
+   "checkedAt": "2026-11-23T07:40:20.072Z"
   },
   {
    "id": "6hkaub",
@@ -3727,8 +3610,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3626,
-   "checkedAt": "2026-11-22T19:42:17.674Z"
+   "latencyMs": 1429,
+   "checkedAt": "2026-11-23T07:40:21.063Z"
   },
   {
    "id": "13zouvm",
@@ -3743,8 +3626,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1238,
-   "checkedAt": "2026-11-22T19:42:15.342Z"
+   "latencyMs": 386,
+   "checkedAt": "2026-11-23T07:40:20.112Z"
   },
   {
    "id": "1lky4j5",
@@ -3759,8 +3642,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5763,
-   "checkedAt": "2026-11-22T19:42:20.116Z"
+   "latencyMs": 2866,
+   "checkedAt": "2026-11-23T07:40:22.761Z"
   },
   {
    "id": "80ixiw",
@@ -3775,8 +3658,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3316,
-   "checkedAt": "2026-11-22T19:42:17.690Z"
+   "latencyMs": 681,
+   "checkedAt": "2026-11-23T07:40:20.644Z"
   },
   {
    "id": "1vacvca",
@@ -3791,8 +3674,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1957,
-   "checkedAt": "2026-11-22T19:42:16.486Z"
+   "latencyMs": 1068,
+   "checkedAt": "2026-11-23T07:40:21.037Z"
   },
   {
    "id": "1iowfak",
@@ -3807,8 +3690,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1087,
-   "checkedAt": "2026-11-22T19:42:15.625Z"
+   "latencyMs": 560,
+   "checkedAt": "2026-11-23T07:40:20.535Z"
   },
   {
    "id": "1jqvn8c",
@@ -3823,8 +3706,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 452,
-   "checkedAt": "2026-11-22T19:42:15.022Z"
+   "latencyMs": 462,
+   "checkedAt": "2026-11-23T07:40:20.534Z"
   },
   {
    "id": "1kts1i9",
@@ -3840,8 +3723,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 263,
-   "checkedAt": "2026-11-22T19:42:15.000Z"
+   "latencyMs": 698,
+   "checkedAt": "2026-11-23T07:40:20.812Z"
   },
   {
    "id": "aczars",
@@ -3856,8 +3739,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1767,
-   "checkedAt": "2026-11-22T19:42:16.552Z"
+   "latencyMs": 1136,
+   "checkedAt": "2026-11-23T07:40:21.321Z"
   },
   {
    "id": "1bo2y8v",
@@ -3872,8 +3755,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1920,
-   "checkedAt": "2026-11-22T19:42:16.920Z"
+   "latencyMs": 1209,
+   "checkedAt": "2026-11-23T07:40:21.465Z"
   },
   {
    "id": "13bwfpi",
@@ -3888,8 +3771,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2276,
-   "checkedAt": "2026-11-22T19:42:17.298Z"
+   "latencyMs": 1031,
+   "checkedAt": "2026-11-23T07:40:21.565Z"
   },
   {
    "id": "1k3ibi3",
@@ -3906,8 +3789,8 @@
     "Geo-blocked"
    ],
    "requiresHeaders": false,
-   "latencyMs": 3860,
-   "checkedAt": "2026-11-22T19:42:18.966Z"
+   "latencyMs": 2164,
+   "checkedAt": "2026-11-23T07:40:22.699Z"
   },
   {
    "id": "1njkwfr",
@@ -3922,8 +3805,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2471,
-   "checkedAt": "2026-11-22T19:42:17.648Z"
+   "latencyMs": 1430,
+   "checkedAt": "2026-11-23T07:40:22.142Z"
   },
   {
    "id": "1ktqyoi",
@@ -3938,8 +3821,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2420,
-   "checkedAt": "2026-11-22T19:42:17.650Z"
+   "latencyMs": 1173,
+   "checkedAt": "2026-11-23T07:40:21.892Z"
   },
   {
    "id": "1fyuckw",
@@ -3954,8 +3837,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2910,
-   "checkedAt": "2026-11-22T19:42:18.195Z"
+   "latencyMs": 934,
+   "checkedAt": "2026-11-23T07:40:21.661Z"
   },
   {
    "id": "pxrqnn",
@@ -3970,8 +3853,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3506,
-   "checkedAt": "2026-11-22T19:42:19.131Z"
+   "latencyMs": 1547,
+   "checkedAt": "2026-11-23T07:40:22.383Z"
   },
   {
    "id": "slm3e2",
@@ -3988,8 +3871,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 450,
-   "checkedAt": "2026-11-22T19:42:16.936Z"
+   "latencyMs": 463,
+   "checkedAt": "2026-11-23T07:40:21.500Z"
   },
   {
    "id": "1p1po80",
@@ -4004,8 +3887,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 341,
-   "checkedAt": "2026-11-22T19:42:16.893Z"
+   "latencyMs": 384,
+   "checkedAt": "2026-11-23T07:40:21.447Z"
   },
   {
    "id": "vzyovz",
@@ -4022,8 +3905,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1961,
-   "checkedAt": "2026-11-22T19:42:18.854Z"
+   "latencyMs": 1246,
+   "checkedAt": "2026-11-23T07:40:22.567Z"
   },
   {
    "id": "9nnoak",
@@ -4038,8 +3921,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1343,
-   "checkedAt": "2026-11-22T19:42:18.257Z"
+   "latencyMs": 777,
+   "checkedAt": "2026-11-23T07:40:22.224Z"
   },
   {
    "id": "gv18et",
@@ -4054,8 +3937,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 348,
-   "checkedAt": "2026-11-22T19:42:17.268Z"
+   "latencyMs": 391,
+   "checkedAt": "2026-11-23T07:40:21.856Z"
   },
   {
    "id": "176te7e",
@@ -4070,8 +3953,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 341,
-   "checkedAt": "2026-11-22T19:42:17.563Z"
+   "latencyMs": 764,
+   "checkedAt": "2026-11-23T07:40:22.329Z"
   },
   {
    "id": "17cvzbb",
@@ -4088,8 +3971,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 342,
-   "checkedAt": "2026-11-22T19:42:17.610Z"
+   "latencyMs": 381,
+   "checkedAt": "2026-11-23T07:40:21.960Z"
   },
   {
    "id": "6nf6v0",
@@ -4106,8 +3989,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1137,
-   "checkedAt": "2026-11-22T19:42:18.435Z"
+   "latencyMs": 785,
+   "checkedAt": "2026-11-23T07:40:22.389Z"
   },
   {
    "id": "1y7avt7",
@@ -4124,8 +4007,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 1023,
-   "checkedAt": "2026-11-22T19:42:18.437Z"
+   "latencyMs": 768,
+   "checkedAt": "2026-11-23T07:40:22.429Z"
   },
   {
    "id": "o8tbff",
@@ -4140,8 +4023,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1242,
-   "checkedAt": "2026-11-22T19:42:18.743Z"
+   "latencyMs": 678,
+   "checkedAt": "2026-11-23T07:40:22.355Z"
   },
   {
    "id": "1g56bee",
@@ -4156,8 +4039,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1456,
-   "checkedAt": "2026-11-22T19:42:19.019Z"
+   "latencyMs": 1017,
+   "checkedAt": "2026-11-23T07:40:22.873Z"
   },
   {
    "id": "1bpuz8w",
@@ -4174,8 +4057,8 @@
     "Geo-blocked"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2117,
-   "checkedAt": "2026-11-22T19:42:19.727Z"
+   "latencyMs": 984,
+   "checkedAt": "2026-11-23T07:40:22.876Z"
   },
   {
    "id": "1e1tsts",
@@ -4190,8 +4073,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1900,
-   "checkedAt": "2026-11-22T19:42:19.550Z"
+   "latencyMs": 1245,
+   "checkedAt": "2026-11-23T07:40:23.269Z"
   },
   {
    "id": "146tphe",
@@ -4206,8 +4089,24 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2365,
-   "checkedAt": "2026-11-22T19:42:20.655Z"
+   "latencyMs": 1413,
+   "checkedAt": "2026-11-23T07:40:23.797Z"
+  },
+  {
+   "id": "1gnw581",
+   "tvgId": "KlapeiTambureTV.hr@SD",
+   "name": "Klape i Tambure TV",
+   "logo": "https://i.imgur.com/sKj3dgc.png",
+   "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+   "country": "HR",
+   "countryName": "Croatia",
+   "categories": [
+    "Music"
+   ],
+   "flags": [],
+   "requiresHeaders": false,
+   "latencyMs": 343,
+   "checkedAt": "2026-11-23T07:40:22.772Z"
   },
   {
    "id": "4y8a9l",
@@ -4222,8 +4121,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1591,
-   "checkedAt": "2026-11-22T19:42:20.334Z"
+   "latencyMs": 1547,
+   "checkedAt": "2026-11-23T07:40:24.246Z"
   },
   {
    "id": "mobb4h",
@@ -4240,8 +4139,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1622,
-   "checkedAt": "2026-11-22T19:42:20.472Z"
+   "latencyMs": 1487,
+   "checkedAt": "2026-11-23T07:40:24.248Z"
   },
   {
    "id": "oaghym",
@@ -4256,8 +4155,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1661,
-   "checkedAt": "2026-11-22T19:42:20.515Z"
+   "latencyMs": 1554,
+   "checkedAt": "2026-11-23T07:40:24.326Z"
   },
   {
    "id": "bufa3e",
@@ -4272,8 +4171,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 5091,
-   "checkedAt": "2026-11-22T19:42:23.989Z"
+   "latencyMs": 2830,
+   "checkedAt": "2026-11-23T07:40:25.706Z"
   },
   {
    "id": "15mluqb",
@@ -4288,8 +4187,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2684,
-   "checkedAt": "2026-11-22T19:42:21.972Z"
+   "latencyMs": 1385,
+   "checkedAt": "2026-11-23T07:40:24.669Z"
   },
   {
    "id": "1wtoesj",
@@ -4306,8 +4205,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2741,
-   "checkedAt": "2026-11-22T19:42:22.031Z"
+   "latencyMs": 1790,
+   "checkedAt": "2026-11-23T07:40:25.074Z"
   },
   {
    "id": "1v86h1t",
@@ -4324,8 +4223,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2717,
-   "checkedAt": "2026-11-22T19:42:22.138Z"
+   "latencyMs": 1413,
+   "checkedAt": "2026-11-23T07:40:25.068Z"
   },
   {
    "id": "15rqisb",
@@ -4342,8 +4241,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2684,
-   "checkedAt": "2026-11-22T19:42:22.234Z"
+   "latencyMs": 1408,
+   "checkedAt": "2026-11-23T07:40:25.075Z"
   },
   {
    "id": "eugxj9",
@@ -4360,8 +4259,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2519,
-   "checkedAt": "2026-11-22T19:42:22.246Z"
+   "latencyMs": 1127,
+   "checkedAt": "2026-11-23T07:40:24.924Z"
   },
   {
    "id": "n6qwr6",
@@ -4378,8 +4277,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2702,
-   "checkedAt": "2026-11-22T19:42:22.705Z"
+   "latencyMs": 1128,
+   "checkedAt": "2026-11-23T07:40:25.043Z"
   },
   {
    "id": "bjmodh",
@@ -4396,8 +4295,24 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2596,
-   "checkedAt": "2026-11-22T19:42:22.712Z"
+   "latencyMs": 1216,
+   "checkedAt": "2026-11-23T07:40:25.267Z"
+  },
+  {
+   "id": "nlvjhk",
+   "tvgId": "Nickelodeon.pt@SD",
+   "name": "Nickelodeon (Portugal)",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+   "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f",
+   "country": "PT",
+   "countryName": "Portugal",
+   "categories": [
+    "Kids"
+   ],
+   "flags": [],
+   "requiresHeaders": false,
+   "latencyMs": 1047,
+   "checkedAt": "2026-11-23T07:40:25.173Z"
   },
   {
    "id": "1pjgs4z",
@@ -4412,8 +4327,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2032,
-   "checkedAt": "2026-11-22T19:42:22.547Z"
+   "latencyMs": 849,
+   "checkedAt": "2026-11-23T07:40:25.097Z"
   },
   {
    "id": "1rropkh",
@@ -4428,8 +4343,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1413,
-   "checkedAt": "2026-11-22T19:42:22.966Z"
+   "latencyMs": 404,
+   "checkedAt": "2026-11-23T07:40:24.854Z"
   },
   {
    "id": "jo8468",
@@ -4444,26 +4359,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3458,
-   "checkedAt": "2026-11-22T19:42:25.012Z"
-  },
-  {
-   "id": "f4ip9j",
-   "tvgId": "RadioSines.pt@SD",
-   "name": "Radio Sines",
-   "logo": "https://i.imgur.com/Oe6F1nL.png",
-   "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
-   "country": "PT",
-   "countryName": "Portugal",
-   "categories": [
-    "General"
-   ],
-   "flags": [
-    "Geo-blocked"
-   ],
-   "requiresHeaders": false,
-   "latencyMs": 5572,
-   "checkedAt": "2026-11-22T19:42:27.376Z"
+   "latencyMs": 1977,
+   "checkedAt": "2026-11-23T07:40:26.527Z"
   },
   {
    "id": "1452l",
@@ -4478,8 +4375,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3379,
-   "checkedAt": "2026-11-22T19:42:25.185Z"
+   "latencyMs": 1563,
+   "checkedAt": "2026-11-23T07:40:26.178Z"
   },
   {
    "id": "1m9c8c6",
@@ -4496,8 +4393,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 2096,
-   "checkedAt": "2026-11-22T19:42:23.913Z"
+   "latencyMs": 1561,
+   "checkedAt": "2026-11-23T07:40:26.230Z"
   },
   {
    "id": "1rtarz1",
@@ -4512,8 +4409,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2563,
-   "checkedAt": "2026-11-22T19:42:24.535Z"
+   "latencyMs": 2118,
+   "checkedAt": "2026-11-23T07:40:26.874Z"
   },
   {
    "id": "bmtmc2",
@@ -4528,8 +4425,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3629,
-   "checkedAt": "2026-11-22T19:42:25.660Z"
+   "latencyMs": 1038,
+   "checkedAt": "2026-11-23T07:40:25.892Z"
   },
   {
    "id": "z3g81c",
@@ -4544,8 +4441,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3952,
-   "checkedAt": "2026-11-22T19:42:26.021Z"
+   "latencyMs": 1201,
+   "checkedAt": "2026-11-23T07:40:26.125Z"
   },
   {
    "id": "104vqof",
@@ -4562,8 +4459,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 4041,
-   "checkedAt": "2026-11-22T19:42:26.179Z"
+   "latencyMs": 1323,
+   "checkedAt": "2026-11-23T07:40:26.366Z"
   },
   {
    "id": "716wq5",
@@ -4578,8 +4475,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3873,
-   "checkedAt": "2026-11-22T19:42:26.107Z"
+   "latencyMs": 1296,
+   "checkedAt": "2026-11-23T07:40:26.364Z"
   },
   {
    "id": "15ozjlf",
@@ -4594,8 +4491,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3618,
-   "checkedAt": "2026-11-22T19:42:25.865Z"
+   "latencyMs": 680,
+   "checkedAt": "2026-11-23T07:40:25.754Z"
   },
   {
    "id": "sebin0",
@@ -4610,8 +4507,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 1590,
-   "checkedAt": "2026-11-22T19:42:23.842Z"
+   "latencyMs": 909,
+   "checkedAt": "2026-11-23T07:40:25.984Z"
   },
   {
    "id": "1qinopx",
@@ -4628,8 +4525,8 @@
     "Not 24/7"
    ],
    "requiresHeaders": false,
-   "latencyMs": 4762,
-   "checkedAt": "2026-11-22T19:42:27.309Z"
+   "latencyMs": 1670,
+   "checkedAt": "2026-11-23T07:40:26.761Z"
   },
   {
    "id": "12uycha",
@@ -4644,8 +4541,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 407,
-   "checkedAt": "2026-11-22T19:42:23.119Z"
+   "latencyMs": 570,
+   "checkedAt": "2026-11-23T07:40:25.743Z"
   },
   {
    "id": "142bk1c",
@@ -4660,8 +4557,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 405,
-   "checkedAt": "2026-11-22T19:42:23.231Z"
+   "latencyMs": 570,
+   "checkedAt": "2026-11-23T07:40:25.837Z"
   },
   {
    "id": "n8hjdy",
@@ -4676,8 +4573,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2124,
-   "checkedAt": "2026-11-22T19:42:25.050Z"
+   "latencyMs": 1300,
+   "checkedAt": "2026-11-23T07:40:26.815Z"
   },
   {
    "id": "1dne8gw",
@@ -4692,8 +4589,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2164,
-   "checkedAt": "2026-11-22T19:42:25.130Z"
+   "latencyMs": 1126,
+   "checkedAt": "2026-11-23T07:40:26.832Z"
   },
   {
    "id": "h7qw34",
@@ -4708,8 +4605,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 2206,
-   "checkedAt": "2026-11-22T19:42:25.325Z"
+   "latencyMs": 1129,
+   "checkedAt": "2026-11-23T07:40:26.872Z"
   },
   {
    "id": "1kfxe12",
@@ -4724,8 +4621,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 401,
-   "checkedAt": "2026-11-22T19:42:23.575Z"
+   "latencyMs": 567,
+   "checkedAt": "2026-11-23T07:40:26.321Z"
   },
   {
    "id": "ypha0a",
@@ -4740,8 +4637,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4775,
-   "checkedAt": "2026-11-22T19:42:28.006Z"
+   "latencyMs": 1267,
+   "checkedAt": "2026-11-23T07:40:27.051Z"
   },
   {
    "id": "1sd9mlb",
@@ -4756,8 +4653,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 4470,
-   "checkedAt": "2026-11-22T19:42:28.045Z"
+   "latencyMs": 1635,
+   "checkedAt": "2026-11-23T07:40:27.472Z"
   },
   {
    "id": "wa7tru",
@@ -4772,8 +4669,8 @@
    ],
    "flags": [],
    "requiresHeaders": false,
-   "latencyMs": 3284,
-   "checkedAt": "2026-11-22T19:42:27.197Z"
+   "latencyMs": 1306,
+   "checkedAt": "2026-11-23T07:40:27.290Z"
   }
  ]
 }
